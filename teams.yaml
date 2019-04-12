@@ -1,6 +1,10 @@
 ---
 teams:
   - name: Team1
+    active: 1
   - name: Team2
+    active: 1
   - name: Team3
+    active: 1
   - name: Team4
+    active: 1

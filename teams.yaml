@@ -5,6 +5,6 @@ teams:
   - name: Team2
     active: 1
   - name: Team3
-    active: 1
+    active: 0
   - name: Team4
     active: 1

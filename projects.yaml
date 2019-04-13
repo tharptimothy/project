@@ -1,3 +1,4 @@
 ---
-- name: "Project 1"
-- name: "Project 2"
+projects:
+  - name: "Project 1"
+  - name: "Project 2"

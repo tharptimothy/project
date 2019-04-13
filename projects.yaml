@@ -1,6 +1,10 @@
 ---
 projects:
   - name: "Project 1"
+    team: Team1
   - name: "Project 2"
+    team: Team2
   - name: "Test Project"
+    team: Team1
   - name: "Min"
+    

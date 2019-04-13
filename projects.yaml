@@ -7,4 +7,5 @@ projects:
   - name: "Test Project"
     team: Team1
   - name: "Min"
+    team: Team2
     

@@ -8,3 +8,5 @@ teams:
     active: 0
   - name: Team4
     active: 1
+  - name: Team5
+    active: 1

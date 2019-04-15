@@ -1,9 +1,9 @@
 ---
 - name: Development
-  environment: DEV
+  maturity_code: DEV
 - name: Quality Control
-  environment: QC
+  maturity_code: QC
 - name: Load and Performance Testing
-  environment: LPT
+  maturity_code: LPT
 - name: Production
-  environment: PROD
+  maturity_code: PROD

@@ -1,0 +1,9 @@
+---
+- name: Development
+  environment: DEV
+- name: Quality Control
+  environment: QC
+- name: Load and Performance Testing
+  environment: LPT
+- name: Production
+  environment: PROD

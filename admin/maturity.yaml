@@ -1,9 +1,9 @@
 ---
 - name: Development
-  maturity_code: DEV
+  code: DEV
 - name: Quality Control
-  maturity_code: QC
+  code: QC
 - name: Load and Performance Testing
-  maturity_code: LPT
+  code: LPT
 - name: Production
-  maturity_code: PROD
+  code: PROD
